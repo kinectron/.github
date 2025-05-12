@@ -7,7 +7,7 @@ Kinectron Version 1 is now available with support for Azure Kinect only. Version
 Get started with [Kinectron](https://github.com/kinectron/kinectron).
 
 # Credits
-Kinectron is maintained by [Lisa Jamhoury](https:lisajamhoury.com) with support from Aarón Montoya-Moraga. It was originally developed by Shawn van Every and Lisa Jamhoury at New York University's Interactive Telecommunications Program ([NYU ITP](https://tisch.nyu.edu/itp)) under the Google xStory Experiments in Storytelling Research Grant, which supports experiments with emerging technology in service of new forms of storytelling.
+Kinectron is maintained by [Lisa Jamhoury](https://lisajamhoury.com) with support from [Aarón Montoya-Moraga](https://github.com/montoyamoraga). It was originally developed by Shawn van Every and Lisa Jamhoury at New York University's Interactive Telecommunications Program ([NYU ITP](https://tisch.nyu.edu/itp)) under the Google xStory Experiments in Storytelling Research Grant, which supports experiments with emerging technology in service of new forms of storytelling.
 
 Past collaborators include Stephanie Koltun, Or Fleisher, Tiri Kananuruk, and Dror Ayalon.
 
