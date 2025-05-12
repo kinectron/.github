@@ -11,6 +11,6 @@ Kinectron is maintained by [Lisa Jamhoury](https:lisajamhoury.com) with support 
 
 Past collaborators include Stephanie Koltun, Or Fleisher, Tiri Kananuruk, and Dror Ayalon.
 
-Version 1 is generously supported by a [APOSSIBLE](https://apossible.com/) Applied Experiments grant. 
+Kinectron Version 1 is generously supported by an [APOSSIBLE](https://apossible.com/) Applied Experiments grant. 
 
 
